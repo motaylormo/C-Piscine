@@ -1,5 +1,5 @@
 
-![calendar](./calendar.png)
+![calendar](./Calendar.png)
 
 # Rundown
 ### First week
