@@ -27,5 +27,15 @@
 | ex09 |
 | ex10 |
 </details>
+<details><summary><b>Day02</b></summary>
+
+| exercise | concept |
+| -------: | :------ |
+| ex00 |
+| ex01 |
+| ex02 |
+| ex03 |
+| ex04 |
+</details>
 
 ### Second week
