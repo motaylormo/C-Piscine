@@ -15,8 +15,8 @@
 
 | exercise | concept |
 | -------: | :------ |
-| ex00 | heap vs stack
-| ex01 | memory allocation/deallocation
+| ex00 | heap and stack
+| ex01 | heap and stack
 | ex02 |
 | ex03 |
 | ex04 |
