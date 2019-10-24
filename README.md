@@ -37,5 +37,15 @@
 | ex03 |
 | ex04 |
 </details>
+<details><summary><b>Day03</b></summary>
+
+| exercise | concept |
+| -------: | :------ |
+| ex00 |
+| ex01 |
+| ex02 |
+| ex03 |
+| ex04 |
+</details>
 
 ### Second week
