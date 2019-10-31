@@ -49,3 +49,11 @@
 </details>
 
 ### Second week
+<details><summary><b>Day07</b></summary>
+
+| exercise | concept |
+| -------: | :------ |
+| ex00 | Use function template
+| ex01 | Write function template
+| ex02 |
+</details>
