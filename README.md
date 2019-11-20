@@ -11,15 +11,15 @@
       <th>Day03</th>
       <th>Day04</th>
   </tr>
-  <tr>
+  <tr valign="top">
     <td><ul>
       <li>-[x] <code>ex00</code></li>
       <li>-[x] <code>ex01</code></li>
       <li>-[x] <code>ex02</code></li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code> heap and stack</li>
-      <li>-[x] <code>ex01</code> heap and stack</li>
+      <li>-[x] <code>ex00</code> heap vs stack</li>
+      <li>-[x] <code>ex01</code> heap vs stack</li>
       <li>-[x] <code>ex02</code></li>
       <li>-[x] <code>ex03</code></li>
       <li>-[x] <code>ex04</code></li>
@@ -31,18 +31,18 @@
       <li>-[ ] <code>ex10</code></li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code></li>
-      <li>-[x] <code>ex01</code></li>
-      <li>-[x] <code>ex02</code> inheritance</li>
-      <li>-[x] <code>ex03</code> inheritance</li>
-      <li>-[ ] <code>ex04</code> the diamond problem</li>
-    </ul></td>
-    <td><ul>
       <li>-[ ] <code>ex00</code></li>
       <li>-[ ] <code>ex01</code></li>
       <li>-[ ] <code>ex02</code></li>
       <li>-[ ] <code>ex03</code></li>
       <li>-[ ] <code>ex04</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] <code>ex00</code></li>
+      <li>-[x] <code>ex01</code></li>
+      <li>-[x] <code>ex02</code> inheritance</li>
+      <li>-[x] <code>ex03</code> inheritance</li>
+      <li>-[ ] <code>ex04</code> the diamond problem</li>
     </ul></td>
     <td><ul>
       <li>-[ ] <code>ex00</code></li>
@@ -59,7 +59,7 @@
       <th>Day08</th>
       <th></th>
   </tr>
-  <tr>
+  <tr valign="top">
     <td><ul>
       <li>-[ ] <code>ex00</code></li>
       <li>-[ ] <code>ex01</code></li>
@@ -74,8 +74,8 @@
       <li>-[ ] <code>ex02</code></li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code> Use function template</li>
-      <li>-[x] <code>ex01</code> Write function template</li>
+      <li>-[x] <code>ex00</code> Function template</li>
+      <li>-[x] <code>ex01</code> Function template</li>
       <li>-[x] <code>ex02</code></li>
     </ul></td>
     <td><ul>
