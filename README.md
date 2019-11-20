@@ -3,6 +3,7 @@
 
 ## Rundown
 <table>
+  <tr></tr>
   <tr>
       <th>Day00</th>
       <th>Day01</th>
