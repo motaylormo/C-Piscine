@@ -1,10 +1,90 @@
 
 ![calendar](./Calendar.png)
 
-## First week
+## Rundown
 
-| Day00 | Day01 | Day02 | Day03 | Day04 |
-|-------|-------|-------|------ | ----- |
-| <ul><li>-[x] `ex00`</li><li>-[x] `ex01`</li><li>-[x] `ex02`</li></ul> | <ul><li>-[x] `ex00` heap and stack</li><li>-[x] `ex01` heap and stack</li><li>-[x] `ex02`</li><li>-[x] `ex03`</li><li>-[x] `ex04`</li><li>-[x] `ex05`</li><li>-[ ] `ex06`</li><li>-[ ] `ex07`</li><li>-[ ] `ex08`</li><li>-[ ] `ex09`</li><li>-[ ] `ex10`</li></ul> | <ul><li>-[x] `ex00`</li><li>-[x] `ex01`</li><li>-[x] `ex02` inheritance</li><li>-[x] `ex03` inheritance</li><li>-[ ] `ex04` the diamond problem</li></ul> | <ul><li>-[ ] `ex00`</li><li>-[ ] `ex01`</li><li>-[ ] `ex02`</li><li>-[ ] `ex03`</li><li>-[ ] `ex04`</li></ul> | <ul><li>-[ ] `ex00`</li><li>-[ ] `ex01`</li><li>-[ ] `ex02`</li><li>-[ ] `ex03`</li><li>-[ ] `ex04`</li></ul>
-| **Day05** | **Day06** | **Day07** | **Day08** |
-| <ul><li>-[ ] `ex00`</li><li>-[ ] `ex01`</li><li>-[ ] `ex02`</li><li>-[ ] `ex03`</li><li>-[ ] `ex04`</li><li>-[ ] `ex05`</li></ul> | <ul><li>-[ ] `ex00`</li><li>-[ ] `ex01`</li><li>-[ ] `ex02`</li></ul> | <ul><li>-[x] `ex00` Use function template</li><li>-[x] `ex01` Write function template</li><li>-[x] `ex02`</li></ul> | <ul><li>-[x] `ex00`</li><li>-[x] `ex01`</li><li>-[x] `ex02`</li><li>-[ ] `ex03`</li><li>-[ ] `ex04`</li></ul>
+<table>
+  <tr>
+      <th>Day00</th>
+      <th>Day01</th>
+      <th>Day02</th>
+      <th>Day03</th>
+      <th>Day04</th>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>-[x] <code>ex00</code></li>
+      <li>-[x] <code>ex01</code></li>
+      <li>-[x] <code>ex02</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] <code>ex00</code> heap and stack</li>
+      <li>-[x] <code>ex01</code> heap and stack</li>
+      <li>-[x] <code>ex02</code></li>
+      <li>-[x] <code>ex03</code></li>
+      <li>-[x] <code>ex04</code></li>
+      <li>-[x] <code>ex05</code></li>
+      <li>-[ ] <code>ex06</code></li>
+      <li>-[ ] <code>ex07</code></li>
+      <li>-[ ] <code>ex08</code></li>
+      <li>-[ ] <code>ex09</code></li>
+      <li>-[ ] <code>ex10</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] <code>ex00</code></li>
+      <li>-[x] <code>ex01</code></li>
+      <li>-[x] <code>ex02</code> inheritance</li>
+      <li>-[x] <code>ex03</code> inheritance</li>
+      <li>-[ ] <code>ex04</code> the diamond problem</li>
+    </ul></td>
+    <td><ul>
+      <li>-[ ] <code>ex00</code></li>
+      <li>-[ ] <code>ex01</code></li>
+      <li>-[ ] <code>ex02</code></li>
+      <li>-[ ] <code>ex03</code></li>
+      <li>-[ ] <code>ex04</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[ ] <code>ex00</code></li>
+      <li>-[ ] <code>ex01</code></li>
+      <li>-[ ] <code>ex02</code></li>
+      <li>-[ ] <code>ex03</code></li>
+      <li>-[ ] <code>ex04</code></li>
+    </ul></td>
+  </tr>
+  <tr>
+      <th>Day05</th>
+      <th>Day06</th>
+      <th>Day07</th>
+      <th>Day08</th>
+      <th></th>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>-[ ] <code>ex00</code></li>
+      <li>-[ ] <code>ex01</code></li>
+      <li>-[ ] <code>ex02</code></li>
+      <li>-[ ] <code>ex03</code></li>
+      <li>-[ ] <code>ex04</code></li>
+      <li>-[ ] <code>ex05</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[ ] <code>ex00</code></li>
+      <li>-[ ] <code>ex01</code></li>
+      <li>-[ ] <code>ex02</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] <code>ex00</code> Use function template</li>
+      <li>-[x] <code>ex01</code> Write function template</li>
+      <li>-[x] <code>ex02</code></li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] <code>ex00</code></li>
+      <li>-[x] <code>ex01</code></li>
+      <li>-[x] <code>ex02</code></li>
+      <li>-[ ] <code>ex03</code></li>
+      <li>-[ ] <code>ex04</code></li>
+    </ul></td>
+    <td></td>
+  </tr>
+</table>
