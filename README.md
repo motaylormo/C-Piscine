@@ -1,8 +1,7 @@
 
 ![calendar](./Calendar.png)
 
-# Rundown
-### First week
+## First week
 <details><summary><b>Day00</b></summary>
 
 * [x] `ex00`
@@ -48,7 +47,7 @@
 * [ ] `ex04`
 </details>
 
-### Second week
+## Second week
 <details><summary><b>Day05</b></summary>
 
 * [ ] `ex00`
