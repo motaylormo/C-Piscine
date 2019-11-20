@@ -2,7 +2,6 @@
 ![calendar](./Calendar.png)
 
 ## Rundown
-
 <table>
   <tr>
       <th>Day00</th>
@@ -13,43 +12,43 @@
   </tr>
   <tr valign="top">
     <td><ul>
-      <li>-[x] <code>ex00</code></li>
-      <li>-[x] <code>ex01</code></li>
-      <li>-[x] <code>ex02</code></li>
+      <li>-[x] ex00</li>
+      <li>-[x] ex01</li>
+      <li>-[x] ex02</li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code> heap vs stack</li>
-      <li>-[x] <code>ex01</code> heap vs stack</li>
-      <li>-[x] <code>ex02</code></li>
-      <li>-[x] <code>ex03</code></li>
-      <li>-[x] <code>ex04</code></li>
-      <li>-[x] <code>ex05</code></li>
-      <li>-[ ] <code>ex06</code></li>
-      <li>-[ ] <code>ex07</code></li>
-      <li>-[ ] <code>ex08</code></li>
-      <li>-[ ] <code>ex09</code></li>
-      <li>-[ ] <code>ex10</code></li>
+      <li>-[x] ex00</li>
+      <li>-[x] ex01</li>
+      <li>-[x] ex02</li>
+      <li>-[x] ex03</li>
+      <li>-[x] ex04</li>
+      <li>-[x] ex05</li>
+      <li>-[ ] ex06</li>
+      <li>-[ ] ex07</li>
+      <li>-[ ] ex08</li>
+      <li>-[ ] ex09</li>
+      <li>-[ ] ex10</li>
     </ul></td>
     <td><ul>
-      <li>-[ ] <code>ex00</code></li>
-      <li>-[ ] <code>ex01</code></li>
-      <li>-[ ] <code>ex02</code></li>
-      <li>-[ ] <code>ex03</code></li>
-      <li>-[ ] <code>ex04</code></li>
+      <li>-[ ] ex00</li>
+      <li>-[ ] ex01</li>
+      <li>-[ ] ex02</li>
+      <li>-[ ] ex03</li>
+      <li>-[ ] ex04</li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code></li>
-      <li>-[x] <code>ex01</code></li>
-      <li>-[x] <code>ex02</code> inheritance</li>
-      <li>-[x] <code>ex03</code> inheritance</li>
-      <li>-[ ] <code>ex04</code> the diamond problem</li>
+      <li>-[x] ex00</li>
+      <li>-[x] ex01</li>
+      <li>-[x] ex02</li>
+      <li>-[x] ex03</li>
+      <li>-[ ] ex04</li><!-- the diamond problem -->
     </ul></td>
     <td><ul>
-      <li>-[ ] <code>ex00</code></li>
-      <li>-[ ] <code>ex01</code></li>
-      <li>-[ ] <code>ex02</code></li>
-      <li>-[ ] <code>ex03</code></li>
-      <li>-[ ] <code>ex04</code></li>
+      <li>-[ ] ex00</li>
+      <li>-[ ] ex01</li>
+      <li>-[ ] ex02</li>
+      <li>-[ ] ex03</li>
+      <li>-[ ] ex04</li>
     </ul></td>
   </tr>
   <tr>
@@ -61,29 +60,29 @@
   </tr>
   <tr valign="top">
     <td><ul>
-      <li>-[ ] <code>ex00</code></li>
-      <li>-[ ] <code>ex01</code></li>
-      <li>-[ ] <code>ex02</code></li>
-      <li>-[ ] <code>ex03</code></li>
-      <li>-[ ] <code>ex04</code></li>
-      <li>-[ ] <code>ex05</code></li>
+      <li>-[ ] ex00</li>
+      <li>-[ ] ex01</li>
+      <li>-[ ] ex02</li>
+      <li>-[ ] ex03</li>
+      <li>-[ ] ex04</li>
+      <li>-[ ] ex05</li>
     </ul></td>
     <td><ul>
-      <li>-[ ] <code>ex00</code></li>
-      <li>-[ ] <code>ex01</code></li>
-      <li>-[ ] <code>ex02</code></li>
+      <li>-[ ] ex00</li>
+      <li>-[ ] ex01</li>
+      <li>-[ ] ex02</li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code> Function template</li>
-      <li>-[x] <code>ex01</code> Function template</li>
-      <li>-[x] <code>ex02</code></li>
+      <li>-[x] ex00</li>
+      <li>-[x] ex01</li>
+      <li>-[x] ex02</li>
     </ul></td>
     <td><ul>
-      <li>-[x] <code>ex00</code></li>
-      <li>-[x] <code>ex01</code></li>
-      <li>-[x] <code>ex02</code></li>
-      <li>-[ ] <code>ex03</code></li>
-      <li>-[ ] <code>ex04</code></li>
+      <li>-[x] ex00</li>
+      <li>-[x] ex01</li>
+      <li>-[x] ex02</li>
+      <li>-[ ] ex03</li>
+      <li>-[ ] ex04</li>
     </ul></td>
     <td></td>
   </tr>
