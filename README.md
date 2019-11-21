@@ -5,11 +5,11 @@
 <table>
   <tr></tr>
   <tr>
-      <th>Day00</th>
-      <th>Day01</th>
-      <th>Day02</th>
-      <th>Day03</th>
-      <th>Day04</th>
+      <th width="20%">Day00</th>
+      <th width="20%">Day01</th>
+      <th width="20%">Day02</th>
+      <th width="20%">Day03</th>
+      <th width="20%">Day04</th>
   </tr>
   <tr valign="top">
     <td><ul>
